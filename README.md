@@ -154,6 +154,7 @@ Files are read and written as text. When a file is opened, Windows CRLF and old-
 | `text_editor.h` | Defines shared structures and declares public editor functions. |
 | `editor_internal.h` | Declares helper functions shared by implementation files. |
 | `Makefile` | Provides `make` and `make clean` build targets. |
+| `notes.txt` | Sample document created and saved with the editor. Run `open notes.txt` to load it. |
 
 ## Current behavior and limitations
 
